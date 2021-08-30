@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 1fe26f960e4d4c841aa8f250e81107e9
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - fadeScreen: {fileID: 1917772622771546, guid: 2d6dda5490634e94a992ec764076668d,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
