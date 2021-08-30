@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+//This script allows the thimble object in level 3 to remain in place and make the seesaw work properly
 public class thimbleL3 : MonoBehaviour {
     Rigidbody rb;
     public bossContainer boss;
