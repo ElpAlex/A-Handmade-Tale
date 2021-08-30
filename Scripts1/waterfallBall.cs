@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+// A script that spawns yarn balls (harmful to the player) from the top of the waterfall, along with its damage on the player once they touch the later
 public class waterfallBall : MonoBehaviour {
 
     bool fallen;
